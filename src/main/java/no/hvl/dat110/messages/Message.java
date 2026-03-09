@@ -26,6 +26,8 @@ public abstract class Message {
 	public String toString() {
 		return "Message [type=" + type + ", user=" + user + "]";
 	};
-	
-	
+
+	// Complete the constructor, get/set-methods, and toString method
+    // as described in the project text
+
 }
